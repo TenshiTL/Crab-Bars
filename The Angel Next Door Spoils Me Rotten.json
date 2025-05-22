@@ -4,5 +4,14 @@
   "artist": "Wan Shibata",
   "author": "Saeki-san",
   "cover": "https://mangadex.org/covers/2fec6641-beb1-4ae9-a32f-204dd06688ac/5f1bdcaf-eefa-467d-8c70-ff056eb4a82d.jpg",
-  "chapters": {}
+  "chapters": {
+    "23.1": {
+      "title": "23.1",
+      "volume": "6",
+      "last_updated": "1747910798",
+      "groups": {
+        "Crab Bars": "/proxy/api/imgur/chapter/angel-next-door-spoils-me-rotten-ch-23-1-H6iEGtn"
+      }
+    }
+  }
 }
